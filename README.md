@@ -1,0 +1,2 @@
+Proszę zbudować własne narzędzia monitorujące, które będzie zbierać dane z różnych liczników systemowych oraz zapisywać zdarzenia (np. przekroczenie pewnego poziomu zaalokowanej pamięci, użycie procesora itp.) do systemu zdarzeń w celu diagnostyki i analizy.
+Program można rozszerzyć o następujące funkcje: system logowania parametrów z licznika Systemowego do pliku. - dodanie własnej konfiguracji aplikacji przez użytkownika z zapisem tej konfiguracji do zserializowanego pliku.
