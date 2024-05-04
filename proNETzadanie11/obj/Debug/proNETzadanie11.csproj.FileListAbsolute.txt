@@ -1,0 +1,11 @@
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.csproj.AssemblyReference.cache
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.csproj.SuggestedBindingRedirects.cache
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.MainForm.resources
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.Properties.Resources.resources
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.csproj.GenerateResource.cache
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.csproj.CoreCompileInputs.cache
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\bin\Debug\proNETzadanie11.exe.config
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\bin\Debug\proNETzadanie11.exe
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\bin\Debug\proNETzadanie11.pdb
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.exe
+E:\STUDIA\Programowanie .NET\zadania\zadanie11\proNETzadanie11\proNETzadanie11\obj\Debug\proNETzadanie11.pdb
